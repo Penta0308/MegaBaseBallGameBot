@@ -29,4 +29,5 @@ function response(room, msg, sender, isGroupChat, replier, ImageDB) {
  replier.reply(rmsg);
 }
 
-//
+//GNU GPL
+//BY 천호역, MEGA Air
